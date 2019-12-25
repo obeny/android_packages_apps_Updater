@@ -26,10 +26,12 @@
     <string name="download_completed_notification">Baixada completada</string>
     <string name="download_starting_notification">S\'està iniciant la baixada</string>
     <string name="update_failed_notification">Actualització fallida</string>
+    <string name="installation_suspended_notification">Instal·lació suspesa</string>
     <string name="new_updates_found_title">Noves actualitzacions</string>
     <string name="text_download_speed">%1$s, %2$s/s</string>
     <string name="pause_button">Pausa</string>
     <string name="resume_button">Reprèn</string>
+    <string name="suspend_button">Suspèn</string>
     <string name="installing_update">S\'està instal·lant el paquet d\'actualització</string>
     <string name="installing_update_error">Instal·lació fallida</string>
     <string name="installing_update_finished">Actualització instal·lada</string>
@@ -42,6 +44,10 @@
     <string name="menu_refresh">Recarrega</string>
     <string name="menu_preferences">Preferències</string>
     <string name="menu_auto_updates_check">Comprova automàticament les actualitzacions</string>
+    <string name="menu_auto_updates_check_interval_daily">Un cop al dia</string>
+    <string name="menu_auto_updates_check_interval_weekly">Un cop per setmana</string>
+    <string name="menu_auto_updates_check_interval_monthly">Un cop al mes</string>
+    <string name="menu_auto_updates_check_interval_never">Mai</string>
     <string name="menu_auto_delete_updates">Elimina les actualitzacions una vegada s\'hagin instal·lat</string>
     <string name="menu_delete_update">Elimina</string>
     <string name="menu_copy_url">Copia l\'URL</string>

@@ -26,10 +26,12 @@
     <string name="download_completed_notification">Download concluído</string>
     <string name="download_starting_notification">Iniciando download</string>
     <string name="update_failed_notification">Falha ao atualizar</string>
+    <string name="installation_suspended_notification">Instalação suspensa</string>
     <string name="new_updates_found_title">Novas atualizações</string>
     <string name="text_download_speed">%1$s, %2$s/s</string>
     <string name="pause_button">Pausar</string>
     <string name="resume_button">Continuar</string>
+    <string name="suspend_button">Suspender</string>
     <string name="installing_update">Instalando o pacote de atualização</string>
     <string name="installing_update_error">Erro de instalação</string>
     <string name="installing_update_finished">Atualização instalada</string>
@@ -42,6 +44,10 @@
     <string name="menu_refresh">Atualizar</string>
     <string name="menu_preferences">Preferências</string>
     <string name="menu_auto_updates_check">Autoverificar por atualizações</string>
+    <string name="menu_auto_updates_check_interval_daily">Diariamente</string>
+    <string name="menu_auto_updates_check_interval_weekly">Semanalmente</string>
+    <string name="menu_auto_updates_check_interval_monthly">Mensalmente</string>
+    <string name="menu_auto_updates_check_interval_never">Nunca</string>
     <string name="menu_auto_delete_updates">Excluir pacotes instalados</string>
     <string name="menu_delete_update">Excluir</string>
     <string name="menu_copy_url">Copiar URL</string>
